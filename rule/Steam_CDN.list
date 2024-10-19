@@ -1,0 +1,7 @@
+# NAME: Steam_CDN
+# Steam 下载 CDN 地址
+# 来源：https://www.dogfight360.com/blog/knowledge-base/fix_steamdl_region/
+# 更新日期 2023/12/21
+# 解决 Steam 下载 CDN 被定位到国外 CDN 的问题
+
+# Steam 使用国区CDN地址下载
