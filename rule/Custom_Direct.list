@@ -15,3 +15,9 @@ DOMAIN-SUFFIX,landiannews.com
 DOMAIN-SUFFIX,lancdn.com
 # PT 下载相关
 DOMAIN-KEYWORD,tracker
+# 工作
+DOMAIN-SUFFIX,darkroom.net
+# 美物清单
+DOMAIN-SUFFIX,meiwulist.com
+# 焦作水务
+DOMAIN-SUFFIX,jzsww.com
